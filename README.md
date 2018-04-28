@@ -3,6 +3,8 @@ A multi-database selector for sequelize.js
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/sequelize-db.svg)](https://greenkeeper.io/)
+
 In package.json;
 
 ```"sequelize-db": "https://github.com/wookets/sequelize-db/tarball/0.1.0"```
